@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on My New Hugo Site</title>
+    <link>https://gzwxh.github.io/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gzwxh.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Content</title>
+      <link>https://gzwxh.github.io/posts/test/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gzwxh.github.io/posts/test/</guid>
+      <description>t1 aaaa
+Test aaa text.
+t1.1 aaaa
+t1.2 aaaa
+t1.2.1 aaaa
+t1.2.2 aaaa
+t2 aaaa
+t3  One  / testing some code /
+Two Three  超宽显示 var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;; 超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示 var a = &amp;quot;text&amp;quot;;</description>
+    </item>
+    
+  </channel>
+</rss>
